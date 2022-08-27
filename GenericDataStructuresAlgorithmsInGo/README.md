@@ -1,0 +1,1 @@
+# Richard Wiener - Generic Data Structures and Algorithms in Go_ An Applied Approach Using Concurrency, Genericity and Heuristics-Apress (2022)
