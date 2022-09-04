@@ -2,6 +2,8 @@ package heap
 
 import "algorithms/GenericDataStructuresAlgorithmsInGo/model"
 
+// go lib: https://pkg.go.dev/container/heap
+
 // A heap tree is
 // another balanced tree type with the largest item in the tree always in the root of the tree.
 // We use a heap tree to implement an efficient sorting algorithm

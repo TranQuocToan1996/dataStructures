@@ -26,6 +26,8 @@ import (
 
 /*
 
+golang lib: https://pkg.go.dev/github.com/emirpasic/gods/trees/redblacktree
+
 https://www.youtube.com/watch?v=qvZGUFHWChY
 https://www.geeksforgeeks.org/red-black-tree-set-1-introduction-2/
 
